@@ -113,6 +113,7 @@ Go to [http://localhost:8888](http://localhost:8888) to view real-time visualiza
 ## 📽️ Demo
 
 
+**click to Watch the demo**
 
 [![Watch the demo](demo_thumb_v2.png)](https://youtu.be/cHH6ERcMTVg)
 
