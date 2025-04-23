@@ -112,9 +112,9 @@ Go to [http://localhost:8888](http://localhost:8888) to view real-time visualiza
 
 ## 📽️ Demo
 
-[![Watch the demo](https://img.youtube.com/vi/cHH6ERcMTVg/0.jpg)](https://youtu.be/cHH6ERcMTVg)
 
 
+[![Watch the demo](demo_thumb_v2.png)](https://youtu.be/cHH6ERcMTVg)
 
 ---
 
