@@ -1,0 +1,4 @@
+kafka-python
+flask
+apache-airflow-providers-mongo
+pymongo

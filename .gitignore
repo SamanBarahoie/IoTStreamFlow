@@ -1,0 +1,28 @@
+ *.pyc
+ __pycache__/
+ *.pyo
+ *.pyd
+ .Python
+ env/
+ venv/
+ .venv/
+
+ # Docker
+ *.log
+ docker-compose.yml.bak
+
+ # Airflow
+ airflow.db
+ webserver_config.py
+ logs/
+*.log
+scheduler/*
+dag_processor_manager/*
+ # IDEs
+ .idea/
+ *.iml
+
+ # Misc
+ *.swp
+ *.swo
+ .DS_Store
