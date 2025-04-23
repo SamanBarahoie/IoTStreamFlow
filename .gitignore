@@ -26,3 +26,4 @@ dag_processor_manager/*
  *.swp
  *.swo
  .DS_Store
+logs/scheduler/latest
