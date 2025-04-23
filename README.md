@@ -52,7 +52,7 @@ Each component is modular, containerized, and designed for horizontal scaling an
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/IoTStreamFlow.git
+git clone https://github.com/SamanBarahoie/IoTStreamFlow.git
 cd IoTStreamFlow
 ```
 
